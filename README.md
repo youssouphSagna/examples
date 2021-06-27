@@ -22,4 +22,7 @@ Examples of Concourse workflows
 ## Using External Resource Types
 
 
+## Conclusion
+
+
 
